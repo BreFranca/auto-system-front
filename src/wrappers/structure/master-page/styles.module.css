@@ -1,0 +1,42 @@
+.layout {
+    height: 100%;
+}
+
+.logo {
+    width: 120px;
+    height: 31px;
+    margin: 16px auto;
+    position: relative;
+}
+
+.logoCollapsed {
+    width: 30px;
+    height: 31px;
+    position: relative;
+    margin: 16px auto;
+}
+
+.row-layout {
+    width: auto;
+    height: auto;
+    margin: 16px 16px auto 16px;
+    padding: 24px 24px 0 24px;
+    min-width: auto;
+}
+
+.trigger {
+    padding: 0 24px;
+    font-size: 18px;
+    line-height: 64px;
+    cursor: pointer;
+    transition: color 0.3s;
+    color: #FFF;
+}
+
+.trigger:hover {
+    color: #1890ff;
+}
+
+.site-layout-background {
+    background-color: #FFF;
+}
